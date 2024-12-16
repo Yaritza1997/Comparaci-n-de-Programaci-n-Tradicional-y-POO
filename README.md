@@ -1,4 +1,4 @@
-# COMPARACION DE PROGRAMACION TRADICIONAL vs POO
+*****# COMPARACION DE PROGRAMACION TRADICIONAL vs POO*****
 # Ventajas de Programación Tradicional:
 -Es sencilla y fácil de entender para problemas pequeños o bien definidos.
 
